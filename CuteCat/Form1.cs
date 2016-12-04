@@ -15,6 +15,10 @@ namespace CuteCat
           public Form1()
           {
                InitializeComponent();
+
           }
      }
+
+
+
 }
